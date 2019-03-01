@@ -1,0 +1,27 @@
+{
+  "name": "quizsense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borismichel/quizsense.git"
+  },
+  "author": "Boris Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borismichel/quizsense/issues"
+  },
+  "homepage": "https://github.com/borismichel/quizsense#readme",
+  "dependencies": {
+    "@types/node": "^11.9.4",
+    "@types/sqlite3": "^3.1.4",
+    "enigma.js": "^2.4.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "sqlite3": "^4.0.6",
+    "ws": "^6.1.3"
+  }
+}
