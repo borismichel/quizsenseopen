@@ -4,7 +4,7 @@ Download the repo (see above)
 
 Extract and `run npm install` from inside the main directory (where package.json is)
 
-Enter the configuration for your telegram bot and Qlik Sense connection in ´./src/config/config.ts´
+Enter the configuration for your telegram bot and Qlik Sense connection in `./src/config/config.ts`
 
 Run `tsc` in the main directory to compile your code.
 
