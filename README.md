@@ -4,7 +4,10 @@ Quiz Sense is essentially a ChatBot that connects to your Qlik Sense Server, pul
 
 ![Quiz Sense Image](./resources/2019-03-01-12_25_58-Window.png)
 
-The project consinsts of 3 backend components that handle communication to Qlik Sense, the telegram interface and a database to keep track of questions and scores.
+The project consists of 3 backend components: 
+* communication to Qlik Sense
+* the telegram interface 
+* and a database to keep track of questions and scores.
 
 ![Quiz Sense Image](./resources/Quiz-Sense-Architecture.png)
 
