@@ -46,4 +46,4 @@ export var qlikApp: string      = '<THE APP ID YOU WANT TO CONNECT TO>';
 
 Happy Quizing!!
 
-Refer to https://alcmst.net/?p=141 for more information
+Refer to https://alcmst.net/2019/03/01/quiz-sense-who-wants-to-be-a-qlikionnaire/ for more information
