@@ -36,11 +36,13 @@ export var qlikServer: string   = '<YOUR QS SERVER WSS URL | ws://localhost:9076
 export var qlikApp: string      = '<THE APP ID YOU WANT TO CONNECT TO>';
 ```
 
-4) Run `tsc` in the main directory to compile your code.
+4) Export Qlik Sense certificates to facilitate communication between the backend and the engine (https://help.qlik.com/en-US/sense/February2019/Subsystems/ManagementConsole/Content/Sense_QMC/export-certificates.htm)
 
-5) Run `node ./dist/app.js`
+5) Run `tsc` in the main directory to compile your code.
 
-6) Start Telegram and talk to your quiz master
+6) Run `node ./dist/app.js`
+
+7) Start Telegram and talk to your quiz master
 
 Happy Quizing!!
 
