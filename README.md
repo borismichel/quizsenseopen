@@ -15,9 +15,9 @@ The project consists of 3 backend components:
 
 Add @quizsensebot on Telegram and say hello. On a phone? Go to https://t.me/quizsensebot
 
-The entire code is written in typescript and runs on node.js. To run your own copy do the following:
-
 # Installation
+
+The entire code is written in typescript and runs on node.js. To run your own copy do the following:
 
 You'll need a telegram bot (token) see here, if you don't know how to get one: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
@@ -45,7 +45,7 @@ export var qlikServer: string   = '<YOUR QS SERVER WSS URL | ws://localhost:9076
 export var qlikApp: string      = '<THE APP ID YOU WANT TO CONNECT TO>';
 ```
 
-4) Export Qlik Sense certificates to facilitate communication between the backend and the engine (https://help.qlik.com/en-US/sense/February2019/Subsystems/ManagementConsole/Content/Sense_QMC/export-certificates.htm)
+4) Export Qlik Sense certificates to facilitate communication between the backend and the engine (https://help.qlik.com/en-US/sense/February2019/Subsystems/ManagementConsole/Content/Sense_QMC/export-certificates.htm). Afterwards copy them over to the cert folder or amend the qlikCertificateDir variable above.
 
 5) Run `tsc` in the main directory to compile your code.
 
