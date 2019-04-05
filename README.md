@@ -13,7 +13,7 @@ The project consists of 3 backend components:
 
 # Try it
 
-Add ˋ@quizsensebotˋ on Telegram and say hello. On a phone? Go to https://t.me/quizsensebot
+Add @quizsensebot on Telegram and say hello. On a phone? Go to https://t.me/quizsensebot
 
 The entire code is written in typescript and runs on node.js. To run your own copy do the following:
 
