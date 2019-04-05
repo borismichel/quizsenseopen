@@ -10,6 +10,8 @@ The project consinsts of 3 backend components that handle communication to Qlik 
 
 The entire code is written in typescript and runs on node.js. To run your own copy do the following:
 
+# Installation
+
 You'll need a telegram bot (token) see here, if you don't know how to get one: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
 Then:
