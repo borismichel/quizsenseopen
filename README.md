@@ -11,6 +11,10 @@ The project consists of 3 backend components:
 
 ![Quiz Sense Image](./resources/Quiz-Sense-Architecture.png)
 
+# Try it
+
+ADd @quizsensebot on Telegram and say hello. On a phone? Go to https://t.me/quizsensebot
+
 The entire code is written in typescript and runs on node.js. To run your own copy do the following:
 
 # Installation
